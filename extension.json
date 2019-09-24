@@ -1,7 +1,7 @@
 {
   "id": "contentful-lilt-extension",
   "name": "Lilt",
-  "src": "https://storage.googleapis.com/lilt_contentful_dev/index.html",
+  "src": "https://storage.googleapis.com/lilt_contentful/index.html",
   "sidebar": true,
   "parameters": {
     "installation": [
