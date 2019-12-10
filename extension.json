@@ -6,6 +6,12 @@
   "parameters": {
     "installation": [
       {
+        "id": "memory_prefix",
+        "name": "Memory Prefix",
+        "type": "Symbol",
+        "default": ""
+      },
+      {
         "id": "api_token",
         "name": "API Token",
         "type": "Symbol",
